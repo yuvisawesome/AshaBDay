@@ -1,0 +1,58 @@
+body {
+  background-color: #fae7cb;
+  text-align: center;
+}
+div  {
+
+}
+hr {
+  width: 95%;
+  height: 0.5rem;
+  border-style: none;
+  margin: 3rem auto;
+  background-color: #fcbad3;
+
+}
+h1 {
+  font-size: 7.625rem;
+  margin-bottom: 2rem;
+}
+h3 {
+  font-size: 2.5rem;
+  color: #ffb385 ;
+}
+.box {
+  background-color: #f5eee6;
+}
+.shorten {
+  display: inline-block;
+  text-align: center;
+  width: 40%;
+  margin: inherit auto;
+}
+.fixed {
+  position: fixed;
+}
+.button2 {
+  position: fixed;
+  font-size: 2rem;
+  background-color: #ffffd2;
+  border-radius: 27%;
+  border-style: double;
+  border-color: #aa96da;
+  text-decoration: none;
+  padding: 0.5%;
+  color: #ff7272;
+}
+
+.button2:hover {
+  background-color: #eeeec1;
+}
+#AshaPic2 {
+  height: 13.5rem;
+  width: auto;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ff7272;
+  margin-bottom: 4.5rem;
+}
